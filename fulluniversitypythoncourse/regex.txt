@@ -1,0 +1,10 @@
+X-Sieve: CMU Sieve 2.3
+X-DSPAM-Result: Innocent
+X-DSPAM-Confidence: 0.8475
+X-DSPAM-Confidence: 0.5086
+X-DSPAM-Confidence: 0.9065
+X-DSPAM-Confidence: 1.7899
+X-DSPAM-Confidence: 0.8475
+X-Content-Type-Message-Body: text/plain
+X-Content-Type Message-Body: text/plain
+
